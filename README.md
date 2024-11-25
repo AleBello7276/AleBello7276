@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm Ale
+[![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?AleBello7276=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AleBello7276/AleBello7276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
